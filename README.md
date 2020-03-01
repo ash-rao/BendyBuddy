@@ -2,8 +2,8 @@
 ### Overview
 This app allows users to learn yoga poses through pose detection software. It captures body pose in real-time and compares it to the actual pose required for each position. 
 
-![](Screenshot_20200301-094937.png | height=100)
-![](Screenshot_20200301-094942.png | height=100)
+![](Screenshot_20200301-094937.png)
+![](Screenshot_20200301-094942.png)
 
 ## Requirements
 Android Studio 3.4+
