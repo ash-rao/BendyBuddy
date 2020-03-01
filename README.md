@@ -2,7 +2,8 @@
 ### Overview
 This app allows users to learn yoga poses through pose detection software. It captures body pose in real-time and compares it to the actual pose required for each position. 
 
-![Demo Image](posenetimage.png)
+![Demo Image](Screenshot_20200301-094937.png)
+![Demo Image](Screenshot_20200301-094942.png)
 
 ## Requirements
 Android Studio 3.4+
@@ -12,5 +13,6 @@ Kotlin, Tensorflow lite with pre-trained PoseNet
 Android development, Artificial Intelligence for Body Pose Estimation, Cosine similarity for estimating pose differences
 
 ### Credits 
-[Tensorfow documentation - Pose EStimation](https://www.tensorflow.org/lite/models/pose_estimation/overview)
+[Tensorfow documentation - Pose Estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview)
+
 
